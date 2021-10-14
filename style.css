@@ -1,0 +1,21 @@
+.line{
+    height: 7px;
+        width:80px;
+    background-color:black;
+    margin:8px auto;
+}
+
+body{
+text-align:center;
+     background:linear-gradient(#f542b3 40%,#f54287 60%);
+}
+
+h1{
+font-size: 35px;
+}
+#mycarousel{
+    background-color: #f5e1eb;
+}
+#mycarousel img{
+   
+}a
